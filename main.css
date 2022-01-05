@@ -215,6 +215,7 @@ footer{min-height: 500px;padding: 50px 0;
 
 /*-----------style cho Contact tus--------------------*/
 .contactus h1{font-size: 1,5em}
+.contactus .mailcontact{width: 100%}
 .contactus.input-form{
 	width: 100%;
 	padding: 15px; 
